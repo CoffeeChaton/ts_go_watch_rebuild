@@ -1,0 +1,18 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "watch:tsc": "tsc -watch",
+    "watch:tsgo": "tsgo -watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "@typescript/native-preview": "7.0.0-dev.20250616.1",
+    "typescript": "^5.8.3"
+  }
+}
